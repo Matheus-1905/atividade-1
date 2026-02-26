@@ -1,0 +1,10 @@
+const panela_da_cozinha = "leiteira"
+const sabor_miojo = "miojo de galinha"
+const abra_o_pacote = "pacote"
+const coloque_na_panela = "miojo"
+const adicione_o_liquido = "agua"
+const ligue_o_fogao = "acenda"
+const desligue_ao_cozinhar ="pronto"
+const coloque_o_sabor = "galinha"
+const coloque_no_prato = " despeje"
+console.log(" Olá Mundo")
