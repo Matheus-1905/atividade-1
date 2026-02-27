@@ -20,7 +20,7 @@ let ligarATv = false
 let assitirTv = false
 let deitarNaCama = false
 let ficarNoCelular = false
-let horaDeDormir = 23
+
 
 function acordar() {
     if (horaDeAcordar >= 11) {
@@ -138,13 +138,7 @@ function voltarQuarto() {
     else {
         console.log("deitei na cama e capotei")
     }
-    if (horaDeDormir >= 23) {
-        console.log(`fui dormir ás ${horaDeDormir} horas`)
-    }
-
-    else{
-        console.log("perdi o sono e fiquei virado")
-    }
+    
     
 
 
