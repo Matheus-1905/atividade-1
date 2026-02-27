@@ -7,19 +7,8 @@ let comodo = ""
 let abraOGavetao = false
 let pegueiOSucrilhos = false
 let abrirArmario = false
-let pegueOPote = false
-let abraAGeladeira = false
-let pegarOLeite = false
-let colocarTudoNoPote = false
-let comerOSucrilhos = false
-let pegarOSucrilhos = false
-let deixeOPoteNaPia = false
-let sentarNoSofa = false
-let pegarOControle = false
-let ligarATv = false
-let assitirTv = false
-let deitarNaCama = false
-let ficarNoCelular = false
+
+
 
 
 function acordar() {
